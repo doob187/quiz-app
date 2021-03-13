@@ -34,7 +34,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router": "^3.0.0",
-    "webpack": "^5.17.0"
+    "webpack": "^5.25.0"
   },
   "devDependencies": {
     "css-loader": "^5.0.1",
